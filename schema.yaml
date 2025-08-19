@@ -1,0 +1,7 @@
+affiliate_player_commission_settings:
+  id: int
+  affiliate_settlement_id: int
+  player_id: int
+  token_id: int
+  commission_rate: decimal
+  created_at: bigint
